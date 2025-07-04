@@ -13,7 +13,6 @@ The proliferation of waste poses significant challenges to environmental sustain
 
 We utilized the "Waste Classification with CNN" dataset available on Kaggle, which comprises a collection of images representing various types of garbage. The dataset contains images of organic waste, such as food scraps and plant-based materials, as well as recyclable waste, including cardboard, glass, metal, paper, and plastic.
 
-To access the dataset, please visit the following link: [Waste Classification with CNN Dataset](https://www.kaggle.com/code/vishnu310104/waste-classification-with-cnn)
 
 ## Performance Improvements
 
@@ -24,24 +23,7 @@ To access the dataset, please visit the following link: [Waste Classification wi
 | Precision | ~84% | ~91% | +7% |
 | Recall | ~83% | ~90% | +7% |
 
-## Dataset Structure
 
-TrashType_Image_Dataset/
-├── train/
-│   ├── cardboard/
-│   ├── glass/
-│   ├── metal/
-│   ├── paper/
-│   ├── plastic/
-│   └── trash/
-├── test/
-│   ├── cardboard/
-│   ├── glass/
-│   ├── metal/
-│   ├── paper/
-│   ├── plastic/
-│   └── trash/
-└── OG/  # Original dataset
 
 ## Contributing
 
